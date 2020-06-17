@@ -9,7 +9,7 @@ Create smash hits using the comforting sounds of a xylophone.
 </p>
 
 <p align="center">
-<img width="1119" height="811" img src="https://user-images.githubusercontent.com/67071345/84961017-191ca480-b0b8-11ea-856f-016406e99e08.gif">
+<img width="700" height="508" img src="https://user-images.githubusercontent.com/67071345/84961017-191ca480-b0b8-11ea-856f-016406e99e08.gif">
 </p>
 
 <br/>
